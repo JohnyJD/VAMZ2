@@ -21,4 +21,8 @@ class MainActivity : AppCompatActivity() {
         val hey : Int = 100;
         val hey2 : Int = 100;
     }
+
+    fun thisIsFunc(number: Int) : Int {
+        return number+1;
+    }
 }
