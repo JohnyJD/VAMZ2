@@ -19,5 +19,6 @@ class MainActivity : AppCompatActivity() {
             ).show()
         }
         val hey : Int = 100;
+        val hey2 : Int = 100;
     }
 }
